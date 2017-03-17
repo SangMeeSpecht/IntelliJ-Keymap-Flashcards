@@ -19,7 +19,7 @@
     </environments>
 
     <mappers>
-        <package name="hellotwu.mappers"/>
+        <package name="flashcards.mappers"/>
     </mappers>
 
 </configuration>

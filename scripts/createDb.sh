@@ -2,14 +2,14 @@
 
 set -e
 #Drop DB named flashcards if exits
-dropdb --if-exists flashcards
+dropdb --if-exists basic_cards
 
 #Drop user flashcards if exits
-dropuser --if-exists flashcards
+dropuser --if-exists basic_cards
 
 #Creates user flashcards
-createuser -s flashcards
+createuser -s basic_cards
 
-#Creates DB named flashcards
-createdb flashcards
+#Creates DB named basic_cards
+createdb basic_cards
 

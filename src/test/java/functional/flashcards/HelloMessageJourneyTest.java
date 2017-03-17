@@ -1,4 +1,4 @@
-package functional.hellotwu;
+package functional.flashcards;
 
 import org.junit.After;
 import org.junit.Before;

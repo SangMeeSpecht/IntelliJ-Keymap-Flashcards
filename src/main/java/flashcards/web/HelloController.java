@@ -1,6 +1,6 @@
-package hellotwu.web;
+package flashcards.web;
 
-import hellotwu.service.HelloService;
+import flashcards.service.HelloService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

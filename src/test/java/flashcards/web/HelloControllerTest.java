@@ -1,6 +1,6 @@
-package hellotwu.web;
+package flashcards.web;
 
-import hellotwu.service.HelloService;
+import flashcards.service.HelloService;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.Mock;

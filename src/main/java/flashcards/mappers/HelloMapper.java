@@ -1,4 +1,4 @@
-package hellotwu.mappers;
+package flashcards.mappers;
 
 import org.apache.ibatis.annotations.Select;
 

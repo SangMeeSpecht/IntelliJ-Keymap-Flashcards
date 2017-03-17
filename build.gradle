@@ -1,4 +1,4 @@
-group 'com.hellotwu.sspecht'
+group 'com.flashcards.sspecht'
 version '1.0-SNAPSHOT'
 
 buildscript {

@@ -1,7 +1,7 @@
-package hellotwu.service;
+package flashcards.service;
 
-import hellotwu.mappers.HelloMapper;
-import hellotwu.mappers.MyBatisUtil;
+import flashcards.mappers.HelloMapper;
+import flashcards.mappers.MyBatisUtil;
 import org.apache.ibatis.session.SqlSession;
 import org.springframework.stereotype.Service;
 
